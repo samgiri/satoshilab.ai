@@ -29,7 +29,7 @@
       id: "contact",
       label: "How do I contact you?",
       answer:
-        "Telegram: @asksatoshilab · WhatsApp: +971 58 587 4793 · Email: info@satoshilab.ai. Telegram and WhatsApp are usually fastest."
+        "Telegram: @satoshilabai · WhatsApp: +971 58 587 4793 · Email: info@satoshilab.ai. Telegram and WhatsApp are usually fastest."
     },
     {
       id: "about",
@@ -118,7 +118,7 @@
       });
       var fallback = el("div", { id: "sl-faq-fallback" });
       fallback.innerHTML =
-        'Something else? <a href="https://t.me/asksatoshilab" target="_blank" rel="noopener">Message us on Telegram</a> or email <a href="mailto:info@satoshilab.ai">info@satoshilab.ai</a>.';
+        'Something else? <a href="https://t.me/satoshilabai" target="_blank" rel="noopener">Message us on Telegram</a> or email <a href="mailto:info@satoshilab.ai">info@satoshilab.ai</a>.';
       body.appendChild(fallback);
     }
 
