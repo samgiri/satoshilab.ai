@@ -37,3 +37,6 @@ textarea:focus-visible {
 .legal-links a:hover { color: var(--orange, #FF6B1A); }
 .form-notice { color: var(--text-secondary, #b0b5c0); font-size: 0.82rem; line-height: 1.55; margin: 1rem auto 0; max-width: 44rem; }
 .form-notice a { color: var(--orange, #FF6B1A); text-decoration: underline; text-underline-offset: 0.2em; }
+
+/* Inline brand icons (Font Awesome Free 6.4.0, CC BY 4.0) */
+.ico{width:1em;height:1em;fill:currentColor;vertical-align:-0.125em;display:inline-block}
