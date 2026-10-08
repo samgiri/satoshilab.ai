@@ -29,7 +29,7 @@
       id: "contact",
       label: "How do I contact you?",
       answer:
-        "Telegram: @asksatoshilab · WhatsApp: +91 92115 52233 · Email: info@satoshilab.ai. Telegram and WhatsApp are usually fastest."
+        "Telegram: @asksatoshilab · WhatsApp: +971 58 587 4793 · Email: info@satoshilab.ai. Telegram and WhatsApp are usually fastest."
     },
     {
       id: "about",
